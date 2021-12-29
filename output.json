@@ -1,0 +1,9 @@
+{
+    "TABLE": ["Products"],
+    "CRUD": ["SELECT"],
+    "COLUMN": [
+        "bananas AS fruit",
+        "tomato AS vegetable"
+    ],
+    "WHERE": ["Price BETWEEN 10 AND 20"]
+}
